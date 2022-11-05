@@ -42,6 +42,24 @@ Construa um aplicativo utilizando React Native, que tem por objetivo simular um 
 
 No arquivo README do projeto explique o funcionamento e a arquitetura da solução adotada na sua implementação. Descreva também os passos para executar corretamente seu projeto. Tamebém será necessário adicionar um link publico de algum repositorio/diretório/container (eg.: google drive, one drive, etc.. ) online de sua escolha com o builder da aplicar para o sistema android.
 
+Criação do projeto.
+Server
+Instalação do Node na pastar server com flux.
+Configuração do package.jason 
+Instalação do Express
+Configuração do tsconfig.jason
+Criação de banco de dados utilizando prisma com SQLite.
+
+Web
+Criação do projeto com instalação da ferramente vite.
+
+Mobile
+Criação do projeto mobile com a ferramenta Expo
+
+link drive
+
+https://drive.google.com/drive/folders/1MBMNEbHYZory5A6z70-IGg5F1Fbm5q2u?usp=share_link
+
 ### Avaliação
 
 * Organização, qualidade de código, Semântica, legibilidade
